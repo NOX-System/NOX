@@ -1,0 +1,10 @@
+NỌX LICENSE ADDENDUM — RIGHT TO CHANGE LICENSE
+
+This project is currently licensed under the GNU AGPLv3 license.
+
+The author (NỌX System) reserves the exclusive right to change the license
+terms of this project at any time, including but not limited to switching
+to a different open-source license or a proprietary license.
+
+All current copies distributed under the AGPLv3 remain under the AGPLv3
+terms; future versions may be released under different terms.

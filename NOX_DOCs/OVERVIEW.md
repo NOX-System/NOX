@@ -1,25 +1,17 @@
-# NỌX — Overview
+# NỌX System — Overview
+
+The NỌX System is a **global decentralized communication platform** focused on **privacy**, **minimal data usage**, and **resistance to tracking**.
+
+## Core Principles
+- No user identification
+- No logs or history
+- No terms or payments
+- Decentralized architecture
+- Tracking protection at all levels
+
 ## Purpose
-Глобальная децентрализованная система коммуникаций, ориентированная на приватность, минимизацию данных, устойчивость к отслеживанию.
+NỌX is designed to enable the secure exchange of messages and data without relying on central servers or intermediaries.
 
-## Principles
-- Без идентификации
-- Без журналов
-- Без условий и оплат
-- Децентрализация
-- Защита от отслеживания
-
-## Components (high-level)
-- Transport layer (общие принципы)
-- Identity-less sessioning (в общих чертах)
-- Storage & relay (без деталей реализации)
-- Client UX (без платформенной конкретики)
-
-## Threat Model (high-level)
-Наблюдение сети, метаданные, попытки deanonymization — подходы к снижению риска (без раскрытия реализации).
-
-## Scope / Non-Goals
-Что NỌX делает / не делает.
-
-## Roadmap (public)
-MVP → Beta → Public release (основные этапы, без дат).
+## Current Status
+The project is under active development.
+Official website: **https://noxsystem.net**

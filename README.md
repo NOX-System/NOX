@@ -1,6 +1,6 @@
 # NỌX
 
-**Global decentralized communication system** focused on privacy, minimal data, and resistance to tracking.
+**A global decentralized communication system** focused on privacy, minimal data, and resistance to tracking.
 
 ## Core Principles
 - **No user identification**
